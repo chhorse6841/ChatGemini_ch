@@ -1,1 +1,1 @@
-Android app icon
+Update dependencies to the latest versions
