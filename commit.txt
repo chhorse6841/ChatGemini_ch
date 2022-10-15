@@ -1,1 +1,1 @@
-Add dark mode support for the settings page
+perf: reduce networkbehaviourilpp type resolution time
