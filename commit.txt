@@ -1,1 +1,1 @@
-Chat feature
+chore: turn on verbose for world position stays test
