@@ -1,1 +1,1 @@
-Add dark mode support for the settings page
+chore: turn on verbose for world position stays test
