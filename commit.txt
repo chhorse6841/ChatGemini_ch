@@ -1,1 +1,1 @@
-chore: turn on verbose for world position stays test
+fix: AnticipatedNetworkVariable not updating previous value [MTTB-1036] (back port)
