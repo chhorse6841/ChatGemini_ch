@@ -1,1 +1,1 @@
-Android app icon
+chore: turn on verbose for world position stays test
