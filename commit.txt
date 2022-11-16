@@ -1,1 +1,1 @@
-Fix dispatcher error on desktop
+Add dark mode support for the settings page
