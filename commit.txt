@@ -1,1 +1,1 @@
-Chat feature
+Fix dispatcher error on desktop
