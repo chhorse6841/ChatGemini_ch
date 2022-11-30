@@ -1,1 +1,1 @@
-chore: turn on verbose for world position stays test
+perf: reduce networkbehaviourilpp type resolution time
