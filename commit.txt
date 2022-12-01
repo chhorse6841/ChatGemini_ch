@@ -1,1 +1,1 @@
-Update dependencies to the latest versions
+Upgrade Gemini version to 1.5 Pro (#17)
