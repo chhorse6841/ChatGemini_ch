@@ -1,1 +1,1 @@
-perf: reduce networkbehaviourilpp type resolution time
+Update dependencies to the latest versions
