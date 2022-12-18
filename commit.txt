@@ -1,1 +1,1 @@
-Chat feature
+Upgrade Gemini version to 1.5 Pro (#17)
