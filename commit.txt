@@ -1,1 +1,1 @@
-chore: Issues marked by stat:import OR stat:imported labels won't be marked as Stale by automation
+fix: AnticipatedNetworkVariable not updating previous value [MTTB-1036] (back port)
