@@ -1,1 +1,1 @@
-Chat feature
+chore: Issues marked by stat:import OR stat:imported labels won't be marked as Stale by automation
