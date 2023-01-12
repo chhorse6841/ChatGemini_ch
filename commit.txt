@@ -1,1 +1,1 @@
-Merge remote-tracking branch 'origin/main'
+Update dependencies to the latest versions
