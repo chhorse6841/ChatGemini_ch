@@ -1,1 +1,1 @@
-Update dependencies to the latest versions
+chore: turn on verbose for world position stays test
