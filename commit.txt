@@ -1,1 +1,1 @@
-Chat feature
+fix: AnticipatedNetworkVariable not updating previous value [MTTB-1036] (back port)
