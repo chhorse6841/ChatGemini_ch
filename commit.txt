@@ -1,1 +1,1 @@
-Android app icon
+Fix dispatcher error on desktop
