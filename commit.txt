@@ -1,1 +1,1 @@
-Chat feature
+Add dark mode support for the settings page
